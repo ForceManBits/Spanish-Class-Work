@@ -11,13 +11,20 @@ header{
     padding:2em;
     border-radius: 1em;
     color: #ffffff;
+}
+
+header img{
     
+    height:320px;
+    width:480px;
+    padding: 20px;
+    margin:32px 18px;
 
 }
 
 body{
    font-family: Verdana, Geneva, Tahoma, sans-serif;
-   background: #815388;
+   background: #685f2b;
 }
 
 a{
